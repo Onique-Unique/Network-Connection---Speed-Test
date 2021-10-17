@@ -7,17 +7,14 @@ Within this python script: Loading Animation, Converted bytes to depict in Gigab
 
 # Within this program you will be able to:
 
-#### 
-#### 
-#### 
+#### Retrieve Upload Speeds with bytes Converted to gigabytes for accurate depiction
+#### Retrieve Download Speeds with bytes Converted to gigabytes for accurate depiction
 
 # This program has the following:
 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+#### Upload Network Speed Results
+#### Download Network Speed Results
+#### Wait Time Loading animation
+#### Byte Converted to Gigabytes for accurate depiction of speeds received
 
-## Using this program you will be able to:  improving quality and Speed of work completion.
+## Using this program you will be able to safely/ securely run Network Speed tests for accurate results without having to use online resources.
