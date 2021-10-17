@@ -3,6 +3,8 @@
 Created a Network/Internet Speed test using python.
 This python script was written to give an accurate account of the speed rates given by your network provider.
 
+<img width="209" alt="SpeedTest" src="https://user-images.githubusercontent.com/87822768/137649267-8c75f50f-fe02-44ad-a3fc-73216dc7c723.PNG">
+
 Within this python script: Loading Animation, Converted bytes to depict in Gigabytes,Upload & Download speed results.
 
 # Within this program you will be able to:
