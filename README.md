@@ -19,4 +19,4 @@ Within this python script: Loading Animation, Converted bytes to depict in Gigab
 #### Wait Time Loading animation
 #### Byte Converted to Gigabytes for accurate depiction of speeds received
 
-## Using this program you will be able to safely/ securely run Network Speed tests for accurate results without having to use online resources.
+## Using this program you will be able to safely/ securely run Network Speed tests for accurate results without having to use other online resources.
